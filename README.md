@@ -82,7 +82,7 @@ blog_project/
 
 1️⃣ Clone Repository.
 
-git clone https://github.com/your-username/django-blog.git.
+git clone https://github.com/fahmidprachaw/Amar_Blogs
 cd django-blog.
 
 2️⃣ Create Virtual Environment
